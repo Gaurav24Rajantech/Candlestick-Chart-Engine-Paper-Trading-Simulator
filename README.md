@@ -1,0 +1,2 @@
+# Candlestick-Chart-Engine-Paper-Trading-Simulator
+Candlestick Chart Engine &amp; Paper-Trading Simulator is an interactive web-based trading simulation application developed using HTML, CSS, and vanilla JavaScript. The project provides a realistic trading-terminal experience where users can analyze simulated market price movements through candlestick charts and practice buying and selling assets.
